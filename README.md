@@ -48,6 +48,17 @@ Using [Glitch](https://glitch.com/) is the recommended method for working throug
 - Run node server.js to start the server on port 8000.
 - Open a browser tab to http://localhost:8000
 
+## Related Projects
+
+- https://github.com/freeCodeCamp/devdocs
+- https://github.com/angular/angular
+- https://github.com/ionic-team/ionic
+- https://github.com/GoogleChrome/lighthouse
+- https://github.com/quasarframework/quasar
+- https://github.com/pubkey/rxdb
+- https://github.com/OnsenUI/OnsenUI
+- https://github.com/ionic-team/stencil
+
 ## References
 
 - https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
