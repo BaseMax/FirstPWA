@@ -8,6 +8,15 @@ First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 
 ![Progressive Web App](logo.png)
 
+## Using
+
+```
+$ git clone https://github.com/BaseMax/FirstPWA
+$ cd FirstPWA
+$ npm install
+$ node server.js
+```
+
 ### Demo
 
 ![First Progressive Web App - Demo](screenshot1.png)
@@ -17,15 +26,6 @@ First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 ![First Progressive Web App - Demo](screenshot3.png)
 
 ![First Progressive Web App - Demo](screenshot4.png)
-
-## Using
-
-```
-$ git clone https://github.com/BaseMax/FirstPWA
-$ cd FirstPWA
-$ npm install
-$ node server.js
-```
 
 -----------
 
