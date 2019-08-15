@@ -4,7 +4,7 @@ First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 
 ![Progressive Web App](screenshot5.png)
 
-## First WPA
+## First PWA
 
 ![Progressive Web App](logo.png)
 
@@ -21,8 +21,8 @@ First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 ## Using
 
 ```
-$ git clone https://github.com/BaseMax/FirstWPA
-$ cd FirstWPA
+$ git clone https://github.com/BaseMax/FirstPWA
+$ cd FirstPWA
 $ npm install
 $ node server.js
 ```
