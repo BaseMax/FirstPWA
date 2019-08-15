@@ -48,6 +48,8 @@ Using [Glitch](https://glitch.com/) is the recommended method for working throug
 - Run node server.js to start the server on port 8000.
 - Open a browser tab to http://localhost:8000
 
+![Run](screenshot6.png)
+
 ## Related Projects
 
 - https://github.com/freeCodeCamp/devdocs
