@@ -4,6 +4,8 @@
 
 First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 
+### Tutorial Clone
+
 Using [Glitch](https://glitch.com/) is the recommended method for working through this codelab.
 
 - Open a new browser tab and go to https://glitch.com.
@@ -12,6 +14,14 @@ Using [Glitch](https://glitch.com/) is the recommended method for working throug
 - Clone https://github.com/googlecodelabs/your-first-pwapp.git and click OK.
 - Once the repo has loaded, edit the .env file, and update it with your DarkSky API key.
 - Click the Show Live button to see the PWA in action.
+
+### Tutorial Compile
+
+- Unpack the downloaded zip file.
+- Run npm install to install the dependencies required to run the server.
+- Edit server.js and set your DarkSky API key.
+- Run node server.js to start the server on port 8000.
+- Open a browser tab to http://localhost:8000
 
 ## References
 
