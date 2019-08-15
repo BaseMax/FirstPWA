@@ -4,6 +4,15 @@
 
 First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 
+## Using
+
+```
+$ npm install
+$ node server.js
+```
+
+-----------
+
 ### Tutorial Clone
 
 Using [Glitch](https://glitch.com/) is the recommended method for working through this codelab.
