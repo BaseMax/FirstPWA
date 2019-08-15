@@ -21,6 +21,8 @@ First Progressive Web App using Nodejs, HTML, CSS, Javascript.
 ## Using
 
 ```
+$ git clone https://github.com/BaseMax/FirstWPA
+$ cd FirstWPA
 $ npm install
 $ node server.js
 ```
